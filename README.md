@@ -1,3 +1,3 @@
 # recommendation-system
-my first repository
+my first repository.
 author - krushna mane
